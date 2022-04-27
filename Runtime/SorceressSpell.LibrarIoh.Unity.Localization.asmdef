@@ -1,0 +1,16 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Unity.Localization",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.Localization",
+    "references": [
+        "SorceressSpell.LibrarIoh.Localization"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

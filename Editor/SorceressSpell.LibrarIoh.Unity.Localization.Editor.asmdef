@@ -1,0 +1,22 @@
+{
+    "name": "SorceressSpell.LibrarIoh.Unity.Localization.Editor",
+    "rootNamespace": "SorceressSpell.LibrarIoh.Unity.Localization.Editor",
+    "references": [
+        "SorceressSpell.LibrarIoh.Core",
+        "SorceressSpell.LibrarIoh.IO",
+        "SorceressSpell.LibrarIoh.Localization",
+        "SorceressSpell.LibrarIoh.Unity.IO.Editor",
+        "SorceressSpell.LibrarIoh.Unity.Localization"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
