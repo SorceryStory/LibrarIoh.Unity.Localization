@@ -1,4 +1,3 @@
-using SorceressSpell.LibrarIoh.Localization;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -13,7 +12,5 @@ namespace SorceressSpell.LibrarIoh.Unity.Localization
         public List<LanguageFileScriptableObject> ScriptableObjectLanguages;
 
         #endregion Fields
-
-
     }
 }
