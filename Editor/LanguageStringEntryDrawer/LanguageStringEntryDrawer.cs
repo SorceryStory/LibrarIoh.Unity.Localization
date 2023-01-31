@@ -15,10 +15,10 @@ namespace SorceressSpell.LibrarIoh.Unity.Localization.Editor
             int indent = EditorGUI.indentLevel;
             EditorGUI.indentLevel = 0;
 
-            float IdWidthSpacing = LanguageStringEntryDrawerConstants.IdWidth + LanguageStringEntryDrawerConstants.Spacing;
+            float idWidthSpacing = LanguageStringEntryDrawerConstants.IdWidth + LanguageStringEntryDrawerConstants.Spacing;
 
             Rect idRect = new Rect(position.x, position.y, LanguageStringEntryDrawerConstants.IdWidth, position.height);
-            Rect stringRect = new Rect(position.x + IdWidthSpacing, position.y, position.width - IdWidthSpacing, position.height);
+            Rect stringRect = new Rect(position.x + idWidthSpacing, position.y, position.width - idWidthSpacing, position.height);
 
             EditorGUI.PropertyField(idRect, property.FindPropertyRelative("Id"), GUIContent.none);
             EditorGUI.PropertyField(stringRect, property.FindPropertyRelative("String"), GUIContent.none);

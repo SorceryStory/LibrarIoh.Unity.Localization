@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "type": "tool",
   "unity": "2018.1",
-  "description": "LibrarIoh.Unity.Localization (https://github.com/SorceressSpell/LibrarIoh.Unity.Localization)\n\nLibrarIoh's Unity localization tools.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceressSpell/LibrarIoh.Core)\n  - LibrarIoh.IO (https://github.com/SorceressSpell/LibrarIoh.IO)\n  - LibrarIoh.Localization (https://github.com/SorceressSpell/LibrarIoh.Localization)\n  - LibrarIoh.Unity.IO (https://github.com/SorceressSpell/LibrarIoh.Unity.IO)",
+  "description": "LibrarIoh.Unity.Localization (https://github.com/SorceryStory/LibrarIoh.Unity.Localization)\n\nLibrarIoh's Unity localization tools.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceryStory/LibrarIoh.Core)\n  - LibrarIoh.IO (https://github.com/SorceryStory/LibrarIoh.IO)\n  - LibrarIoh.Localization (https://github.com/SorceryStory/LibrarIoh.Localization)\n  - LibrarIoh.Unity.IO (https://github.com/SorceryStory/LibrarIoh.Unity.IO)",
   "dependencies": {
     "com.sorceressspell.librarioh.core": "0.3.0",
     "com.sorceressspell.librarioh.io": "0.2.0",
@@ -12,7 +12,7 @@
     "com.sorceressspell.librarioh.unity.io": "0.1.0"
   },
   "author": {
-    "name": "Sorceress' Spell",
+    "name": "Joana Almeida",
     "email": "Sorceress.Spell@gmail.com",
     "url": "http://SorceressSpell.com"
   },
