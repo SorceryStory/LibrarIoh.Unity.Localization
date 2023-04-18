@@ -1,15 +1,15 @@
 {
   "name": "com.sorceressspell.librarioh.unity.localization",
   "displayName": "LibrarIoh.Unity.Localization",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "tool",
   "unity": "2018.1",
   "description": "LibrarIoh.Unity.Localization (https://github.com/SorceryStory/LibrarIoh.Unity.Localization)\n\nLibrarIoh's Unity localization tools.\n\nDepends on:\n  - LibrarIoh.Core (https://github.com/SorceryStory/LibrarIoh.Core)\n  - LibrarIoh.IO (https://github.com/SorceryStory/LibrarIoh.IO)\n  - LibrarIoh.Localization (https://github.com/SorceryStory/LibrarIoh.Localization)\n  - LibrarIoh.Unity.IO (https://github.com/SorceryStory/LibrarIoh.Unity.IO)",
   "dependencies": {
-    "com.sorceressspell.librarioh.core": "0.3.0",
-    "com.sorceressspell.librarioh.io": "0.2.0",
-    "com.sorceressspell.librarioh.localization": "0.3.0",
-    "com.sorceressspell.librarioh.unity.io": "0.1.0"
+    "com.sorceressspell.librarioh.core": "0.4.1",
+    "com.sorceressspell.librarioh.io": "0.2.1",
+    "com.sorceressspell.librarioh.localization": "0.3.1",
+    "com.sorceressspell.librarioh.unity.io": "0.1.1"
   },
   "author": {
     "name": "Joana Almeida",

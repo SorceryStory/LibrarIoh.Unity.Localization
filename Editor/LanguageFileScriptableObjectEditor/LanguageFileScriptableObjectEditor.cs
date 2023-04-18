@@ -1,6 +1,6 @@
 using SorceressSpell.LibrarIoh.Core;
 using SorceressSpell.LibrarIoh.IO;
-using SorceressSpell.LibrarIoh.Localization; 
+using SorceressSpell.LibrarIoh.Localization;
 using SorceressSpell.LibrarIoh.Unity.IO.Editor;
 using System;
 using System.Collections.Generic;
